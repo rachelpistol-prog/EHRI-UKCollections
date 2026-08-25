@@ -10,7 +10,7 @@
     }
   ],
   "facets": [
-    "type"
+    "Region"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
